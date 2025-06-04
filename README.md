@@ -19,7 +19,7 @@
 | 3 | MeteorChic 智能衣柜 | 让衣柜比你先懂流行 | | (无) |
 | 4 | RiseTrack | | | (无) |
 | 5 | AllergyEyes (过敏眼) | 慧眼识食，安心入口 | | |
-| 6 | | | | |
+| 6 | 食荐者 | 智能荐美味，选择不再难 | 江隽知，玖小柒，寿弈森，[凌轩](https://github.com/L1Xu4n) | |
 | 7 | 忆家 | 让每段记忆 都成为家族的力量 | | |
 | 8 | [Clother 衣者](https://clother.smart-teach.cn) | 你负责保持好心情，我们负责打扮好心情 | Zac, ln, 瑞瑞, [jiangyin14](https://github.com/jiangyin14) | [🔗](https://github.com/Moonshot48/clother) |
 | 9 | 源代码漏洞补丁识别 | 战胜未知，铸造奇迹 | | (无) |
